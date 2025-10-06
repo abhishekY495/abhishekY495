@@ -5,3 +5,4 @@
 - 📻 [Radio On Internet](https://radio-on-internet.netlify.app) - Listen to Radio on the Internet
 - 📺 [LocalTube Manager](https://localtubemanager.pages.dev) - A browser extension to use Youtube without Google
 - 🪲 [BugBounty Directory](https://bugbountydirectory.com) - A curated list of Bug Bounty Programs not on HackerOne & Bugcrowd
+- 🌐 [Awesome Sites](https://github.com/abhishekY495/awesome-sites) - Collection of awesome sites that I discovered on the internet
