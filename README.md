@@ -6,4 +6,5 @@
 - 📺 [LocalTube Manager](https://localtubemanager.pages.dev) - A browser extension to use Youtube without Google
 - 🔠 [Daily WordGrid](https://dailywordgrid.com) - A daily word game in which you create 5 letter words using 6 letters to fill the grid
 - 🪲 [BugBounty Directory](https://bugbountydirectory.com) - A curated list of Bug Bounty Programs not on HackerOne & Bugcrowd
+- 📑 [GetMetadata](https://getmetadata.abhisheky495.workers.dev) - An API to get metadata of any website including icon and og image
 - 🌐 [Awesome Sites](https://github.com/abhishekY495/awesome-sites) - Collection of awesome sites that I discovered on the internet
